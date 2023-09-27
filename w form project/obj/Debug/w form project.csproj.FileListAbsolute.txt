@@ -1,0 +1,94 @@
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\bin\Debug\w form project.exe.config
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\bin\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\bin\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w form project.csprojResolveAssemblyReference.cache
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.Form1.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.Properties.Resources.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w form project.csproj.GenerateResource.Cache
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.Formpantintaadd_edite.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.formBook.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.FormMain.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.Formreview11.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.FormREVIEW.resources
+C:\Users\younes kedi\Desktop\project new\w form project\w form project\obj\Debug\w_form_project.FormLogin.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\bin\Debug\w form project.exe.config
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\bin\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\bin\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w form project.csprojResolveAssemblyReference.cache
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Form1.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.formBook.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormLogin.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormMain.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formpantintaadd_edite.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormREVIEW.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formreview11.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Properties.Resources.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w form project.csproj.GenerateResource.Cache
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormAnaL.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formdisen.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormPAYTAYPE.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formٍsocial.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formspla.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.Formreviewtype.resources
+C:\Users\younes kedi\Desktop\project new\project new\w form project\w form project\obj\Debug\w_form_project.FormDark.resources
+D:\project new\project new\project new\w form project\w form project\bin\Debug\w form project.exe.config
+D:\project new\project new\project new\w form project\w form project\obj\Debug\w form project.exe
+D:\project new\project new\project new\w form project\w form project\obj\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\w form project\w form project\bin\Debug\w form project.exe.config
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\w form project\w form project\bin\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\w form project\w form project\bin\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.csprojResolveAssemblyReference.cache
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Form1.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormAnaL.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.formBook.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormDark.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formdisen.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormLogin.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormMain.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formpantintaadd_edite.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormPAYTAYPE.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.FormREVIEW.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formreview11.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formreviewtype.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formspla.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formٍsocial.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Properties.Resources.resources
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.csproj.GenerateResource.Cache
+C:\Users\younes kedi\Desktop\w form project\w form project\bin\Debug\w form project.exe.manifest
+C:\Users\younes kedi\Desktop\w form project\w form project\bin\Debug\w form project.application
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.exe.manifest
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w form project.application
+C:\Users\younes kedi\Desktop\w form project\w form project\obj\Debug\w_form_project.Formlorestart.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\bin\Debug\w form project.exe.config
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\bin\Debug\w form project.exe.manifest
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\bin\Debug\w form project.application
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\bin\Debug\w form project.exe
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\bin\Debug\w form project.pdb
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.csprojResolveAssemblyReference.cache
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Form1.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormAnaL.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.formBook.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormDark.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formdisen.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormLogin.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formlorestart.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormMain.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formpantintaadd_edite.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormPAYTAYPE.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.FormREVIEW.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formreview11.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formreviewtype.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formspla.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Formٍsocial.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w_form_project.Properties.Resources.resources
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.csproj.GenerateResource.Cache
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.exe.manifest
+C:\Users\younes kedi\Desktop\اتمتة عيادات طبية شاملة\المشروع\w form project\obj\Debug\w form project.application
